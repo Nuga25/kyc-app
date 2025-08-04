@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kycwebappv1-dev-bb8b6-authRole",
+      "UnauthRoleArn": "arn:aws:iam::489673021092:role/amplify-kycwebappv1-dev-bb8b6-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::489673021092:role/amplify-kycwebappv1-dev-bb8b6-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-kycwebappv1-dev-bb8b6-deployment",
+      "UnauthRoleName": "amplify-kycwebappv1-dev-bb8b6-unauthRole",
+      "StackName": "amplify-kycwebappv1-dev-bb8b6",
+      "StackId": "arn:aws:cloudformation:us-east-1:489673021092:stack/amplify-kycwebappv1-dev-bb8b6/be3ea1f0-7130-11f0-9f86-0affc044e23d",
+      "AmplifyAppId": "d1shw6ymutgr0j"
+    },
+    "categories": {
+      "auth": {
+        "kycwebappv1e042c811": {}
+      }
+    }
+  }
+}
